@@ -26,6 +26,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/plexus-domain-security.yml
   - type: Website
     url: https://www.plexus.com
   - type: About
@@ -42,6 +44,8 @@ common:
     url: https://www.plexus.com/en-us/supplier-portal
   - type: LinkedIn
     url: https://www.linkedin.com/company/plexus
+  - url: https://www.plexus.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
