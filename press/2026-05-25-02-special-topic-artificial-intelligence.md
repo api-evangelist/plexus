@@ -1,7 +1,9 @@
 ---
 title: 'Special topic: Artificial Intelligence'
 url: https://plexusinvestments.com/site/en/special-topic-artificial-intelligence/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Plexus" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Riverside Research Announces Strategic Partnership with ...
 url: https://www.prnewswire.com/news-releases/riverside-research-announces-strategic-partnership-with-plexus-corp-302776378.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Plexus" press release artificial intelligence'
 position: 4
 source: serpapi-google

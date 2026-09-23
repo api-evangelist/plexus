@@ -1,7 +1,9 @@
 ---
 title: How AI Content Generation is Transforming Public ...
 url: https://plexuspr.com/how-ai-content-generation-is-transforming-public-relations-strategies/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Plexus" press release artificial intelligence'
 position: 5
 source: serpapi-google
